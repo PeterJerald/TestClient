@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<process-instance-response>
+	<process-id>WorkFlowDemo.WorkFlowDemoProcess</process-id>
+	<id>1</id>
+	<state>2</state>
+	<parentProcessInstanceId>0</parentProcessInstanceId>
+	<status>SUCCESS</status>
+	<url>/business-central/rest/runtime/com.vzw.demo:WorkFlowDemo:1.0/process/WorkFlowDemo.WorkFlowDemoProcess/start
+	</url>
+</process-instance-response>
+
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<process-instance-response>
+	<process-id>WorkFlowDemo.WorkFlowDemoProcess</process-id>
+	<id>2</id>
+	<state>2</state>
+	<parentProcessInstanceId>0</parentProcessInstanceId>
+	<status>SUCCESS</status>
+	<url>/business-central/rest/runtime/com.vzw.demo:WorkFlowDemo:1.0/process/WorkFlowDemo.WorkFlowDemoProcess/start
+	</url>
+</process-instance-response>
